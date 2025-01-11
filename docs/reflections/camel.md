@@ -1,0 +1,57 @@
+---
+id: camel
+title: "Camel | উট"
+hide_table_of_contents: true
+---
+
+---------------------------
+
+## | আমরা সবসময় মনে রাখি  |  We Always Remember |  
+
+<font color="brown">
+	
+- যখন একজন মানুষ মারা যায়,  তার সব কাজ শেষ হয়ে যায় , তিনটি ব্যতিক্রম ছাড়া: সদকা জারিয়া (চলমান দান) , এমন জ্ঞান যা থেকে উপকার পাওয়া যায়, এবং একটি সৎ সন্তান যে তার জন্য দোয়া করে ।  | মুহাম্মদ (সাঃ) ; হাদিস - সহিহ মুসলিম | When a person dies, his works end, except for three: ongoing charity, knowledge that is benefited from, and a righteous child who prays for him. | Prophet Mohammed (PBUH); Hadith - Sahih Muslim |
+
+- যে ব্যক্তি ভাল কাজের জন্য সুপারিশ করবে, তার জন্য তাতে (সাওয়াবের) অংশ আছে এবং যে মন্দ কাজের জন্য সুপারিশ করবে, তার জন্য তাতে অংশ আছে । আর আল্লাহ সব কিছুর উপর নজর রাখেন । | সূরাঃ ৪ ,  আন-নিসা  , আয়াতঃ : ৮৫  | Whoever intercedes for a good cause will have a reward therefrom; and whoever intercedes for an evil cause will have a burden therefrom. And ever is Allah, over all things, a Keeper.  | Surah 4 , An-Nisa ,  Verse: 85 |
+
+</font>
+
+-----------------------------
+
+
+
+Related veses in Quran:
+
+--------------------------------
+
+**Source of translation :** www.quran.com ;  www.hadithbd.com ;  www.banglatafheem.com ;  The English translation is from 'Sahih International,' and the Bengali translation is either from 'আল-বায়ান,' 'তাইসিরুল,' or 'মুজিবুর রহমান.'"
+
+----------------------------------
+
+**In the name of Allah, the Most Gracious, the Most Merciful\
+আল্লাহর নামে, যিনি পরম করুণাময়, পরম দয়ালু**
+
+----
+
+
+**<font color="red">Surah 22 | Al-Hajj | আল-হজ্জ | Verse: 36 </font>**
+
+<font color="blue">
+- আর উটকে আমরা আল্লাহর নিদর্শনগুলোর অন্যতম করেছি; তোমাদের জন্য তাতে অনেক মঙ্গল রয়েছে। কাজেই এক পা বাঁধা ও বাকী তিনপায়ে দাঁড়ানো অবস্থায় তাদের উপর তোমরা আল্লাহর নাম উচ্চারণ কর। তারপর যখন তারা কাত হয়ে পড়ে যায় তখন তোমরা তা থেকে খাও এবং আহার করাও ধৈর্যশীল অভাবগ্রস্তকে ও সাহায্যপ্রার্থীদেরকে; এভাবে আমরা সেগুলোকে তোমাদের বশীভূত করে দিয়েছি। যাতে তোমরা কৃতজ্ঞতা প্ৰকাশ কর।
+
+- And the camels and cattle We have appointed for you as among the symbols of Allah; for you therein is good. So mention the name of Allah upon them when lined up [for sacrifice]; and when they are [lifeless] on their sides, then eat from them and feed the needy and the beggar. Thus have We subjected them to you that you may be grateful. 
+</font>
+
+-----
+
+
+
+
+
+
+
+---
+
+**continue.....**
+
+----
