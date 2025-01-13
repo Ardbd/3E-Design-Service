@@ -18,239 +18,56 @@ const sidebars = {
 
   // But you can create a sidebar manually
  
-  surahSidebar: [
-    'surahs/1_fathea',
-    'surahs/8-al-anfal',
-    'surahs/10-yunus',
-    'surahs/11-hud',
-    'surahs/12-yusuf',
-    'surahs/13-ar-rad',
-    'surahs/14-ibrahim',
-    'surahs/15-al-hijr',
-    'surahs/16-an-nahl',
-    //'surahs/22-al-hajj',
-    //'surahs/31-luqman',
-    //'surahs/32-as-sajda',
-    //'surahs/36-ya-sin',
-    'surahs/50-qaf',
-    'surahs/51-adh-dhariyat',
-    'surahs/52-at-tur',
-    //'surahs/55-ar-rahman',
-      'surahs/54-al-qamar',
-      'surahs/56-al-waqia',   
-    //'surahs/57-al-hadid',
-    //'surahs/58-al-mujadila',
-    //'surahs/59-al-hashr',
-    //'surahs/60-al-mumtahina',
-    'surahs/61-As-Saff', 
-    'surahs/62-Al-Jumua',
-    'surahs/63-Al-Munafiqun',
-    'surahs/64-At-Taghabun',
-    'surahs/65-At-Talaq',
-    'surahs/66-At-Tahrim', 
-    'surahs/67-al-mulk',
-    'surahs/68-al-qalam',
-    'surahs/69-al-haqqa',
-    'surahs/70-al-maarij',
-    'surahs/71-nuh',
-    'surahs/99-az-zalzala',
-    'surahs/100-al-adiyat',
-    'surahs/101-al-qaria',
-    'surahs/102-at-takathur',
-    'surahs/103-al-asar',
-    'surahs/104-al-humazah',
-    'surahs/105-al-fil',
-    'surahs/106-quraysh',
-    'surahs/107-al-maun',
-    'surahs/108-al-kawthar',
-    'surahs/109-al-kafirun',
-    'surahs/110-an-nasr',
-    'surahs/111-al-masad',
-    'surahs/112-al-ikhlas',
-    'surahs/113-al-falaq',
-    'surahs/114-an-nas',
-  // 'surahs/surah-al-adiyat',
-  //  'surahs/surah-al-qaria',
-  //  'surahs/surah-at-takathur',
-  //  'surahs/surah-al-asar',
-  //  'surahs/surah-al-humazah',
-  //  'surahs/surah-al-fil',
-  //  'surahs/surah-quraysh',
-  //  'surahs/surah-al-maun',
-  //  'surahs/surah-al-kawthar',
-  //  'surahs/surah-al-kafirun',
-  //  'surahs/surah-an-nasr',
-  //  'surahs/surah-al-masad',
-  //  'surahs/surah-al-ikhlas',
-  //  'surahs/surah-al-falaq',
-  //  'surahs/surah-an-nas',
+  sw_managmentSidebar: [
+    'sw_managment/swm',
+    ],
+  
+  hydrologySidebar: [
+    'hydrology/hydrology_hydraulics',
   ],
   
-  allahSidebar: [
-    'allah/name_allah',
-    'allah/Allah',
-    'allah/alquran',
-    'allah/marceyAllah',
-    'allah/allah_loved',
-  ],
-  
-  reflectionsSidebar: [
-    'reflections/adultary',
-    'reflections/arrogant',
-    'reflections/backbiting',
-    'reflections/bee',
-    'reflections/believers',
-    'reflections/children',
-    'reflections/camel',
-    'reflections/death',
-    'reflections/disbeliever',
-    'reflections/divorce',
-    'reflections/donation',
-    'reflections/ear',
-    'reflections/earthy_life',
-    'reflections/earth_sun_moon',
-    'reflections/elephant',
-    'reflections/eye',
-    'reflections/foregivness',
-    'reflections/fire',
-    'reflections/food',
-    'reflections/fruit',
-    'reflections/future',
-    'reflections/gardening',
-    'reflections/great_success',
-    'reflections/grave',
-    'reflections/halal_haram',
-    'reflections/heart',
-    'reflections/next_life',
-    'reflections/hijab',
-    'reflections/honesty',
-    'reflections/horse',
-    'reflections/interest',
-    'reflections/intercessor',
-    'reflections/iron',
-    'reflections/Judgement_Day',
-    'reflections/life_otherplanet',
-    'reflections/livelihood',
-    'reflections/livestock',
-    'reflections/makkah',
-    'reflections/mankind',
-    'reflections/marriage',
-    'reflections/miser', 
-    'reflections/moon',
-    'reflections/orphan',
-    'reflections/parents',
-    'reflections/patience',
-    'reflections/qurbani',
-    'reflections/revenge',
-    'reflections/resurrection',
-    'reflections/salat',
-    'reflections/satan',
-    'reflections/sea',
-    'reflections/time',
-    'reflections/tahajjud', 
-    'reflections/travelling', 
-    'reflections/water',
-    'reflections/wealth',
-    'reflections/Pharaoh_wife',
- // 'reflections/familay_relation',
- // 'reflections/husband_wife',
- // 'reflections/reflection-1',
- // 'reflections/2_Childhood',
- // 'reflections/3_Family',   
-  ],
-
-  prophetSidebar: [
-    'prophet/prophets_chronology',
-    'prophet/seth',
-    'prophet/abraham',
-    'prophet/ismail',
-    'prophet/yusuf_joseph',
-    'prophet/yaqub',
-    'prophet/noah',
-    'prophet/lut_and_angel',
-    'prophet/shuayb',
-    'prophet/luqman',
-    'prophet/moses_haron',
-    'prophet/jesus',
-    'prophet/saleh_and_his quam',
-    'prophet/yunus',
-    'prophet/hud',
-    'prophet/rasul_name not mentioned',
-    'prophet/muhammad',
+  sg_sdSidebar: [
+    'sg_sd/grading_drainage',
    ],
 
- 
-// five_pillar_islamSidebar: [
-//    'five_pillar_islam/faith',
-//    'five_pillar_islam/namaz',
-//    'five_pillar_islam/roja',
-//    'five_pillar_islam/hazz',
-//    'five_pillar_islam/zakat',
-//     ],
+  escSidebar: [
+    'esc/errson_sediment',
+   ],
 
+  servicingSidebar: [
+    'servicing/site_servicing',
+   ],
 
-  know_islamSidebar: [
-      'know_islam/beauty_islam',
-    //  'know_islam/love_islam',
+  permitSidebar: [
+      'permit/permitting',
+   ],
+
+ fnal_servicingSidebar: [
+      'fnal_servicing/functional_servicing',
     ],
 
- duaSidebar: [
-      'dua/dua_1',
-    ],
-
-
-
-
-
-  mydiarySidebar: [
-    'mydiary/kabar',
-    //'mydiary/mynotes',
-    'mydiary/judgement_ day', 
-    'mydiary/birds_gravity',
-   // 'mydiary/prophets',
-    //'mydiary/ear',
-    //'mydiary/eye',
-    //'mydiary/heart',
-    'mydiary/moon',
-    'mydiary/blood',
-    //'mydiary/horse',
-    'mydiary/time',
-    //'mydiary/fig_olive',
-    //'mydiary/mountain-tur',
-   // 'mydiary/notes_for_record',
-     ],
-
-  creationSidebar: [
-    'creation/2A',
-    'creation/1A',
-    'creation/3A',
-    'creation/future',
-    'creation/earth',
-  ],
-  
-  QuestionSidebar: [
-    'Question/About_ Allah',
-    'Question/Fixed_Destiny',
-    'Question/EqlRight-HW',
-  ],
- 
- AllahMyselfSidebar: [
-    'AllahMyself/1_myself',
-    'AllahMyself/2_reflection',
-    'AllahMyself/3_childhood',
- ],
-
-ancient_tribeSidebar: [
-    'ancient_tribe/aad',
-    'ancient_tribe/thamud',
-    'ancient_tribe/lot_people',
-    'ancient_tribe/pharaoh_people',
-    'ancient_tribe/noah_people',
-    'ancient_tribe/thicket',
-    'ancient_tribe/tubba',
+ floodSidebar: [
+    'flood/flood_control',
  ],
 
 
+// XX01Sidebar: [
+//    'XX01/000A',
+// ],
+
+
+// XX02Sidebar: [
+//    'XX01/000B',
+// ],
+
+
+// XX03Sidebar: [
+//    'XX03/000C',
+// ],
+
+// XX03Sidebar: [
+//    'XX04/000D',
+// ],
 
 
 };

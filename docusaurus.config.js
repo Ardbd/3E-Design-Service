@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Allah Says',
+  title: '3E Design',
   tagline: 'PLACEHOLDER',
-  favicon: 'img/quran-icon.jpg',
+  favicon: 'img/3E-design-logo.png',
 
   // Set the production url of your site here
   url: 'https://mashnoor-rashid.github.io',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mashnoor-rashid', // Usually your GitHub org/user name.
-  projectName: 'Allah-Says', // Usually your repo name.
+  projectName: '3E-design', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,118 +64,109 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/quran-icon.jpg',
+      image: 'img/3E-design-logo.png',
       navbar: {
-        title: 'Allah Says',
+        title: '3E Design',
         logo: {
-          alt: 'Allah Says Logo',
-          src: 'img/quran-icon.jpg',
+          alt: '3E Design Logo',
+        //  src: 'img/3E-design-logo.png',
+          src: 'img/updated_logo.png',
         },
         
         items: [
           
-      //    {
-      //      type: 'docSidebar',
-      //      sidebarId: 'allahSidebar',
-      //     position: 'left',
-      //      label: 'Allah ( আল্লাহ)',
-      //    },
+        {
+          type: 'docSidebar',
+          sidebarId: 'hydrologySidebar',
+          position: 'left',
+          label: '| Hydrological and Hydraulic Analysis',
+          },
           
           {
           type: 'docSidebar',
-          sidebarId: 'surahSidebar',
+          sidebarId: 'sw_managmentSidebar',
           position: 'left',
-          label: 'Surah (সুরা)',
+          label: '| Storm Water Management',
           },
 
 
           {
             type: 'docSidebar',
-            sidebarId: 'reflectionsSidebar',
+            sidebarId: 'sg_sdSidebar',
             position: 'left',
-            label: 'Message of Allah ( আল্লাহর বার্তা )',
+            label: '| Site Grading and Drainage',
            },
 
           {
             type: 'docSidebar',
-            sidebarId: 'allahSidebar',
+            sidebarId: 'servicingSidebar',
             position: 'left',
-           label: 'Allah & Quran ( আল্লাহ এবং কুরআন)',
+           label: '| Site Servicing',
           },
 
           {
           type: 'docSidebar',
-          sidebarId: 'prophetSidebar',
+          sidebarId: 'escSidebar',
           position: 'left',
-          label: 'Prophet ( নবী )',
+          label: '| Erosion and Sediment Control',
           },
         
          {
           type: 'docSidebar',
-          sidebarId: 'ancient_tribeSidebar',
+          sidebarId: 'floodSidebar',
           position: 'left',
-          label: 'Ancient Tribe (প্রাচীন জাতি)',
+          label: '| Flood Hazard and Risk Management',
           },
 
 
           {
           type: 'docSidebar',
-          sidebarId: 'duaSidebar',
-          position: 'right',
-          label: '| Dua',
+          sidebarId: 'fnal_servicingSidebar',
+          position: 'left',
+          label: '| Functional Servicing',
           },
           
 
-
-
          {
           type: 'docSidebar',
-          sidebarId: 'know_islamSidebar',
-          position: 'right',
-          label: '| Know Islam',
+          sidebarId: 'permitSidebar',
+          position: 'left',
+          label: '| Regulatory Compliance & Permitting',
           },
 
 
+        //  {
+        //  type: 'docSidebar',
+        //  sidebarId: 'XX01',
+        //  position: 'left',
+        //  label: 'ABCD ',
+        //  },
 
 
 
         //  {
         //  type: 'docSidebar',
-        //  sidebarId: 'five_pillar_islamSidebar',
-        //  position: 'right',
-        //  label: 'Islam - 5 Pillars (পাঁচ স্তম্ভ) ',
+        //  sidebarId: 'XX02',
+        //  position: 'left',
+        //  label: '| DEFG',
         //  },
-
-
-
-
-
-
-
-
-          {
-          type: 'docSidebar',
-          sidebarId: 'mydiarySidebar',
-          position: 'right',
-          label: '| My Wall',
-          },
           
           
           
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'surahSidebar',
-          //   position: 'left',
-          //   label: 'Prophet',
-          // },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'surahSidebar',
+        //   position: 'left',
+        //   label: 'Prophet',
+        // },
 
 
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+        // {to: '/blog', label: 'Blog', position: 'left'},
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
        
         ],
       
