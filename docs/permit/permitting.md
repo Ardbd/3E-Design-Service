@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 -------------------------
 
-At 3E Design Services, we provide comprehensive Regulatory Compliance, Permitting, and Building Permit Services to ensure your project adheres to all applicable regulations and progresses smoothly through the approval process. Our expertise simplifies navigating complex regulatory requirements, saving time and minimizing potential delays.
+At **3E Design Services**, we provide comprehensive support in Regulatory Compliance, Permitting, and Building Permit Services to ensure projects adhere to all applicable regulations and progress efficiently through the approval process. Our expertise streamlines the navigation of complex regulatory requirements, helping to save time and minimize potential delays.
 
 Our services include:
 - Permit Applications: Preparing and submitting detailed applications for approvals from municipalities, conservation authorities, and other regulatory bodies.
@@ -17,7 +17,7 @@ Our services include:
 - Stakeholder Coordination: Acting as a liaison between clients, regulatory bodies, and stakeholders to address concerns and facilitate efficient approvals.
  Specialized Approvals: Managing requirements for stormwater management, erosion and sediment control, grading, and servicing plans to secure regulatory approval.
 
-By leveraging our in-depth knowledge of regulatory frameworks and industry standards, we ensure that every design meets the highest levels of safety, functionality, and sustainability. At 3E Design Services, we are dedicated to providing seamless support for regulatory compliance and permitting, including obtaining building permits, to help clients achieve their project goals efficiently and effectively.
+By leveraging our in-depth knowledge of regulatory frameworks and industry standards, we ensure that every design meets the highest levels of safety, functionality, and sustainability. At **3E Design Services**, we are dedicated to providing seamless support for regulatory compliance and permitting, including obtaining building permits, to help clients achieve their project goals efficiently and effectively.
 
 -----------------
  

@@ -69,8 +69,8 @@ const config = {
         title: '3E Design',
         logo: {
           alt: '3E Design Logo',
-        //  src: 'img/3E-design-logo.png',
-          src: 'img/updated_logo.png',
+          src: 'img/3E-design-logo.png',
+        //  src: 'img/updated_logo.png',
         },
         
         items: [
@@ -79,14 +79,14 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'hydrologySidebar',
           position: 'left',
-          label: '| Hydrological and Hydraulic Analysis',
+          label: 'Hydrology & Hydraulic',
           },
           
           {
           type: 'docSidebar',
           sidebarId: 'sw_managmentSidebar',
           position: 'left',
-          label: '| Storm Water Management',
+          label: 'StormWaterManagement',
           },
 
 
@@ -94,28 +94,28 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'sg_sdSidebar',
             position: 'left',
-            label: '| Site Grading and Drainage',
+            label: 'Site Grading & Drainage',
            },
 
           {
             type: 'docSidebar',
             sidebarId: 'servicingSidebar',
             position: 'left',
-           label: '| Site Servicing',
+           label: 'Site Servicing',
           },
 
           {
           type: 'docSidebar',
           sidebarId: 'escSidebar',
           position: 'left',
-          label: '| Erosion and Sediment Control',
+          label: 'Erosion & Sediment Control',
           },
         
          {
           type: 'docSidebar',
           sidebarId: 'floodSidebar',
           position: 'left',
-          label: '| Flood Hazard and Risk Management',
+          label: 'Flood Management',
           },
 
 
@@ -123,33 +123,33 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'fnal_servicingSidebar',
           position: 'left',
-          label: '| Functional Servicing',
+          label: 'Functional Servicing',
           },
           
+
+        {
+          type: 'docSidebar',
+          sidebarId: 'rd_drainageSidebar',
+          position: 'left',
+          label: 'Road Drainage ',
+          },
+
 
          {
           type: 'docSidebar',
           sidebarId: 'permitSidebar',
           position: 'left',
-          label: '| Regulatory Compliance & Permitting',
+          label: 'Permitting',
           },
 
 
-        //  {
-        //  type: 'docSidebar',
-        //  sidebarId: 'XX01',
-        //  position: 'left',
-        //  label: 'ABCD ',
-        //  },
 
-
-
-        //  {
-        //  type: 'docSidebar',
-        //  sidebarId: 'XX02',
-        //  position: 'left',
-        //  label: '| DEFG',
-        //  },
+        {
+         type: 'docSidebar',
+         sidebarId: 'shop_drawingSidebar',
+         position: 'left',
+         label: 'Shop Drawing ',
+        },
           
           
           
@@ -217,7 +217,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} AllahSays`,
+        copyright: `Copyright © ${new Date().getFullYear()}  | 3E Design Service`,
       },
       prism: {
         theme: prismThemes.github,

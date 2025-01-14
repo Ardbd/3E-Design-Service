@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 ---------------------------
 
-A Functional Servicing Report is a critical document that identifies the site-specific requirements for essential infrastructure services such as water supply, sanitary sewers, and storm drainage systems. At 3E Design Services, we prepare high-quality functional servicing reports to help clients understand the scope and complexity of their projects, ensuring all service requirements are clearly defined and well-planned.
+A Functional Servicing Report is a crucial document that outlines site-specific requirements for key infrastructure services, including water supply, sanitary sewers, storm drainage systems, and other constraints such as flood hazards and related considerations. At **3E Design Services**, we provide expert support in preparing high-quality Functional Servicing Reports to help clients comprehend the scope and complexity of their projects. Our reports ensure that all service requirements and constraints are clearly defined, meticulously planned, and aligned with project objectives.
 
 Our reports are tailored to provide:
 - Comprehensive Analysis: Evaluating existing infrastructure and identifying necessary upgrades or new installations.

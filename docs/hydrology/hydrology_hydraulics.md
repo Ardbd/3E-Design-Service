@@ -7,7 +7,7 @@ hide_table_of_contents: true
 ---------------------------
 
 
-At 3E Design Services, we offer expert Hydrological and Hydraulic Analysis services to support effective water resource management and infrastructure planning. Our analyses provide a detailed understanding of water flow dynamics and the hydrological behavior of watersheds, enabling clients to make informed decisions for their projects.
+At **3E Design Services**, we offer expert Hydrological and Hydraulic Analysis services to support effective water resource management and infrastructure planning. Our analyses provide a detailed understanding of water flow dynamics and the hydrological behavior of watersheds, enabling clients to make informed decisions for their projects.
 
 Our services include:
 - Floodplain Mapping: Identifying areas at risk of flooding to guide development and risk mitigation strategies.

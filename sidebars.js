@@ -20,45 +20,63 @@ const sidebars = {
  
   sw_managmentSidebar: [
     'sw_managment/swm',
+    'sw_managment/technical_swm',
+    'sw_managment/weblink_swm',
     ],
   
   hydrologySidebar: [
     'hydrology/hydrology_hydraulics',
+    'hydrology/technical_hyd',
+    'hydrology/weblink_hyd',
   ],
   
   sg_sdSidebar: [
     'sg_sd/grading_drainage',
+    'sg_sd/technical_sd_sg',
+    'sg_sd/weblink_sd_sg',
    ],
 
   escSidebar: [
     'esc/errson_sediment',
+    'esc/technical_esc',
+    'esc/weblink_esc',
    ],
 
   servicingSidebar: [
     'servicing/site_servicing',
+    'servicing/technical_ss',
+    'servicing/weblink_ss',
    ],
 
   permitSidebar: [
       'permit/permitting',
+      'permit/technical_permit',
+      'permit/weblink_permit',
    ],
 
  fnal_servicingSidebar: [
       'fnal_servicing/functional_servicing',
+      'fnal_servicing/technical_fsr',
+      'fnal_servicing/weblink_fsr',
     ],
 
  floodSidebar: [
     'flood/flood_control',
+    'flood/technical_flood',
+    'flood/weblink_flood',
  ],
 
 
-// XX01Sidebar: [
-//    'XX01/000A',
-// ],
+ rd_drainageSidebar: [
+    'rd_drainage/road_drainage',
+    'rd_drainage/technical_road',
+    'rd_drainage/weblink_road',
+ ],
 
 
-// XX02Sidebar: [
-//    'XX01/000B',
-// ],
+shop_drawingSidebar: [
+  'shop_drawing/shopdrawing_review',
+],
 
 
 // XX03Sidebar: [

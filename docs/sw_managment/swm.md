@@ -7,7 +7,7 @@ hide_table_of_contents: true
 ---------------------------
 
 
-At 3E Design Services, we deliver comprehensive stormwater management reports to assist clients in effectively managing stormwater on their properties. These reports provide a detailed analysis of stormwater management strategies, including the collection, conveyance, storage, and treatment of stormwater, while ensuring compliance with regulatory standards and prioritizing sustainable practices.
+At **3E Design Services**, we deliver comprehensive stormwater management reports to assist clients in effectively managing stormwater on their properties. These reports provide a detailed analysis of stormwater management strategies, including the collection, conveyance, storage, and treatment of stormwater, while ensuring compliance with regulatory standards and prioritizing sustainable practices.
 
 We incorporate advanced modeling and analysis to evaluate stormwater systems under critical design conditions, such as the 100-year storm event and Regional Storm (Hurricane Hazel) scenarios. These evaluations help ensure infrastructure resilience, minimize flooding risks, and protect water quality.
 
