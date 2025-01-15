@@ -20,4 +20,34 @@ Our approach emphasizes the use of Best Management Practices (BMPs) for stormwat
 By tailoring our stormwater management solutions to the unique needs of each project, we help clients achieve regulatory compliance, minimize environmental impacts, and promote long-term sustainability. Our design approach offer cost-effective, practical solutions aligned with the highest standards of environmental stewardship.
 
 
------------------------------
+## Design Support Service:
+
+At **3E Design Services**, we provide support in the following areas, but not limited to:
+
+
+- Pre Development Site Hydrology 
+- Post Development Site Hydrology
+- Pre & Post Development Drainage Plan
+- Pre & Post Development Hydrological and Hydraulic Modelling 
+- Strom Water Quantity Analysis
+- Storm Water Quality Analysis
+- Water Balance Analysis
+- Infiltration Trench Design
+- Storm Water Managemnt Facilites Design : Dry Pond, Wet Pond Design 
+- Bio Retention Swale Design
+- Roof Hydrology and Hydraulics
+- Parking Lot Hydrology & Hydraulics 
+- Storm Minor System Design
+- Storm Major System Design
+- Hydraulic Grade Line Analysis
+- Low Impact Deveopment (LID) measures 
+- Stormwater Management Facility Retrofit Design
+- Technical Writeup
+
+
+-------------------------------------------------------------------
+**Contact Us:** \
+We would be delighted to hear from you and explore how we can assist you. \
+Email: ardbd70@gmail.com
+
+--------------------------------------

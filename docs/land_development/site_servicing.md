@@ -19,10 +19,4 @@ By combining technical expertise with a client-focused approach, **3E Design Ser
 
 
 
-
--------------------------------------------------------------------
-**Contact Us:** \
-We would be delighted to hear from you and explore how we can assist you. \
-Email: ardbd70@gmail.com
-
---------------------------------------
+----------

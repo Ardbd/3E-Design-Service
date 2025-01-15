@@ -7,19 +7,28 @@ hide_table_of_contents: true
 ---------------------------
 
 
-At **3E Design Services**, we offer expert Hydrological and Hydraulic Analysis services to support effective water resource management and infrastructure planning. Our analyses provide a detailed understanding of water flow dynamics and the hydrological behavior of watersheds, enabling clients to make informed decisions for their projects.
-
-Our services include:
-- Floodplain Mapping: Identifying areas at risk of flooding to guide development and risk mitigation strategies.
-- Hydrological Modeling: Simulating rainfall-runoff relationships to assess watershed behavior and peak flow rates.
-- Hydraulic Modeling: Evaluating water flow through channels, culverts, and other infrastructure to ensure efficient conveyance.
-- Watercourse Analysis: Studying streamflow and channel stability to inform sustainable design and restoration efforts.
-- Storm Event Evaluation: Assessing impacts of critical storm events, such as the 100-year storm and Regional Storm, to ensure infrastructure resilience.
-
-By integrating advanced modeling tools and industry best practices, we deliver analyses that are precise, reliable, and aligned with regulatory standards. Our hydrological and hydraulic expertise ensures that projects are designed to minimize flood risks, optimize water resource use, and protect the surrounding environment.
+At **3E Design Services**, we specialize in providing expert support in hydrology and hydraulics to address complex water resource challenges. Our services encompass hydrological modeling to analyze rainfall-runoff relationships and assess watershed behavior, as well as hydraulic modeling to evaluate water flow through channels, culverts, and stormwater systems. By combining advanced analytical tools with industry best practices, we deliver precise and reliable solutions for floodplain mapping, storm event assessments, and watercourse analysis.
 
 
+## Design Support Service:
 
---------------------------------
+At **3E Design Services**, we provide support in the following areas, but not limited to:
+
+- Subwatershed Plan - Existing 
+- Subwatershed Plan - Proposed 
+- Hydrological Modeling ( VOH )
+- Hydraulic Modeling ( HEC-RAS )
+- Stormwater Modeling ( PCSWMM and XPSWMM )
+- Rational/Modified Rational Method
+- Flood Mapping 
+- Hydro-technical Writeup
+
+
+-------------------------------------------------------------------
+**Contact Us:** \
+We would be delighted to hear from you and explore how we can assist you. \
+Email: ardbd70@gmail.com
+
+--------------------------------------
 
 

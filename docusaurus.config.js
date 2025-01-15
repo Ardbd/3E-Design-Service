@@ -75,34 +75,42 @@ const config = {
         
         items: [
           
-        {
+         {
           type: 'docSidebar',
           sidebarId: 'hydrologySidebar',
           position: 'left',
           label: 'Hydrology & Hydraulic',
           },
           
+         {
+          type: 'docSidebar',
+          sidebarId: 'land_developmentSidebar',
+          position: 'left',
+          label: 'Lot Grading & Draingae & Servicing',
+          },
+
+
           {
           type: 'docSidebar',
           sidebarId: 'sw_managmentSidebar',
           position: 'left',
-          label: 'StormWaterManagement',
+          label: 'Stormwwater Management',
           },
 
 
-          {
-            type: 'docSidebar',
-            sidebarId: 'sg_sdSidebar',
-            position: 'left',
-            label: 'Site Grading & Drainage',
-           },
+//          {
+//            type: 'docSidebar',
+//            sidebarId: 'sg_sdSidebar',
+//            position: 'left',
+//            label: 'Site Grading & Drainage',
+//           },
 
-          {
-            type: 'docSidebar',
-            sidebarId: 'servicingSidebar',
-            position: 'left',
-           label: 'Site Servicing',
-          },
+//          {
+//            type: 'docSidebar',
+//          sidebarId: 'servicingSidebar',
+//            position: 'left',
+//           label: 'Site Servicing',
+//          },
 
           {
           type: 'docSidebar',
