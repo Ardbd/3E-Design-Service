@@ -14,12 +14,15 @@ A Functional Servicing Report is a crucial document that outlines site-specific 
 
 At **3E Design Services**, we provide support in the following areas, but not limited to:
 
-- Evaluating existing infrastructure and identifying necessary upgrades or new installations.
-- Ensuring proposed servicing ( storm, Sanitary, watermain) designs are both cost-effective and practical.
-- Aligning all servicing recommendations with applicable municipal and provincial standards.
-- Site Stormwater Management 
-- Technical Writeup
+- Evaluating existing infrastructure : Identifying necessary upgrades or new installations to meet project demands.
+- Proposed Servicing Designs : Ensuring storm, sanitary, and watermain designs are both cost-effective and practical.
+- Standards Alignment : Aligning all servicing recommendations with applicable municipal and provincial standards.
+- Site Stormwater Management : Integrating stormwater management solutions into the functional servicing strategy.
+- Functional Servicing Report : Comprehensive and detailed documentation to guide project development.
 
+## Partner With Us
+
+Trust **3E Design Services** to provide exceptional support in preparing Functional Servicing Reports. Let us help you navigate project complexities with innovative solutions and achieve seamless integration of services into your development plans
 
 -------------------------------------------------------------------
 **Contact Us:** \

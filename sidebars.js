@@ -68,11 +68,17 @@ shop_drawingSidebar: [
   'shop_drawing/shopdrawing_review',
 ],
 
-  permitSidebar: [
-      'permit/permitting',
+
+web_linkSidebar: [
+  'web_link/weblink',
+],
+
+
+  // permitSidebar: [
+  //    'permit/permitting',
   //    'permit/technical_permit',
   //    'permit/weblink_permit',
-   ],
+  // ],
 
 
 // sg_sdSidebar: [

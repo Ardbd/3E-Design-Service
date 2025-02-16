@@ -9,15 +9,18 @@ hide_table_of_contents: true
 
 At **3E Design Services**, we deliver comprehensive stormwater management reports to assist clients in effectively managing stormwater on their properties. These reports provide a detailed analysis of stormwater management strategies, including the collection, conveyance, storage, and treatment of stormwater, while ensuring compliance with regulatory standards and prioritizing sustainable practices.
 
+## Advance Analysis and Modelling
+
 We incorporate advanced modeling and analysis to evaluate stormwater systems under critical design conditions, such as the 100-year storm event and Regional Storm (Hurricane Hazel) scenarios. These evaluations help ensure infrastructure resilience, minimize flooding risks, and protect water quality.
 
-Our approach emphasizes the use of Best Management Practices (BMPs) for stormwater management, including:
-- Wet Ponds, Dry Ponds, and Subsurface Stormwater Management Facilities: Engineered for peak flow attenuation and water quality improvement.
-- Bioretention Swales: Utilizing natural vegetation and engineered soils to filter pollutants and slow runoff.
-- Infiltration Basins: Facilitating groundwater recharge and reducing surface runoff volumes.
-- Water Balance Solutions: Maintaining pre-development hydrological conditions for sustainable water cycle management.
+## Best Management Practices (BMPs)
 
-By tailoring our stormwater management solutions to the unique needs of each project, we help clients achieve regulatory compliance, minimize environmental impacts, and promote long-term sustainability. Our design approach offer cost-effective, practical solutions aligned with the highest standards of environmental stewardship.
+Our stormwater management designs incorporate industry-leading Best Management Practices (BMPs) to enhance performance and sustainability. These include:
+
+- Wet Ponds, Dry Ponds, and Subsurface Stormwater Management Facilities: These engineered systems are designed to attenuate peak flows and improve water quality.
+- Bioretention Swales: Utilizing natural vegetation and engineered soils, these systems filter pollutants and slow runoff, promoting eco-friendly solutions.
+- Infiltration Basins: Designed to facilitate groundwater recharge, these basins reduce surface runoff volumes while supporting natural hydrological processes.
+- Water Balance Solutions: Focused on maintaining pre-development hydrological conditions, these solutions ensure a sustainable water cycle and mitigate environmental impacts.
 
 
 ## Design Support Service:
@@ -25,26 +28,31 @@ By tailoring our stormwater management solutions to the unique needs of each pro
 At **3E Design Services**, we provide support in the following areas, but not limited to:
 
 
-- Pre Development Site Hydrology 
-- Post Development Site Hydrology
-- Pre & Post Development Drainage Plan
-- Pre & Post Development Hydrological and Hydraulic Modelling 
+- Site Hydrology : Pre & Post Development
+- Drainge Plan : Comprehensive pre- and post-development strategies.
+- Hydrological and Hydraulic Modelling 
 - Strom Water Quantity Analysis
 - Storm Water Quality Analysis
 - Water Balance Analysis
 - Infiltration Trench Design
-- Storm Water Managemnt Facilites Design : Dry Pond, Wet Pond Design 
+- Storm Water Managment Facilites Design : Including dry ponds, wet ponds, and underground storage facilities.
 - Bio Retention Swale Design
 - Roof Hydrology and Hydraulics
+- Roof Control System design
 - Parking Lot Hydrology & Hydraulics 
-- Storm Minor System Design
-- Storm Major System Design
-- Hydraulic Grade Line Analysis
+- Parking Lot Storage
+- Storm Sewer Design
+- Major Ovetland System Design
+- Hydraulic Grade Line ( HGL) Analysis
 - Low Impact Deveopment (LID) measures 
-- Stormwater Management Facility Retrofit Design
+- Retrofit Stormwater Mangement Pond 
 - Stromwater Managemnet Technical Writeup
-- Pomd Maintenance Manual
+- Pond Maintenance Manual
 
+
+## Partner With Us
+
+Let **3E Design Services** help you build resilient, environmentally responsible, and effective stormwater solutions that protect both your assets and the natural environment.
 
 -------------------------------------------------------------------
 **Contact Us:** \

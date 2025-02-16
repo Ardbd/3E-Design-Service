@@ -19,6 +19,12 @@ At **3E Design Services**, we provide support in the following areas, but not li
 - Regulatory and Safety Compliance: Confirming that shop drawings meet local and provincial regulations, as well as safety requirements.
 - Timely Feedback: Providing clear, actionable feedback to streamline revisions and maintain project schedules.
 
+## Partner With Us
+
+Trust **3E Design Services**  for professional and precise shop drawing reviews. Let us help you streamline your construction processes and achieve superior project outcomes.
+
+
+
 
 -------------------------------------------------------------------
 **Contact Us:** \

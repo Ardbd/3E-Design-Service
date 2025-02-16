@@ -10,15 +10,16 @@ At **3E Design Services**, we provide comprehensive support through detailed Ero
 
 ## Design Support Service:
 
-At **3E Design Services**, we provide support in the following areas, but not limited to:
+We provide support in the following areas, among others:
 
-- Erosion Control Measures: Designing systems to stabilize exposed soils and prevent erosion caused by wind, water, or construction activities.
-- Sediment Control Systems: Developing strategies such as silt fences, sediment traps, and check dams to capture and manage sediment-laden runoff.
-- Site-Specific Solutions: Tailoring ESC plans to address the unique characteristics of each project site, including slope stability, soil types, and proximity to sensitive areas.
-- Regulatory Compliance: Ensuring that all ESC measures meet local, provincial, and federal requirements, including conservation authority and municipal guidelines.
+- Erosion and Sediment Control Measures: Developing strategies such as silt fences, sediment traps, and check dams to capture and manage sediment-laden runoff.
 - Construction Monitoring and Maintenance Plans: Providing guidance on the installation, inspection, and maintenance of ESC measures to ensure their effectiveness throughout the construction process.
 - Erosion And Sediment Control Plan
 - Technical Writeup
+
+## Partner With Us
+
+Choose **3E Design Services** for your erosion and sediment control needs. Let us help you implement effective, compliant, and sustainable solutions that minimize environmental impact and support successful project execution.
 
 
 

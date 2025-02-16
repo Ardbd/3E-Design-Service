@@ -7,25 +7,24 @@ hide_table_of_contents: true
 
 ---------------------------
 
-At **3E Design Services**, we provide specialized support in Flood Hazard and Risk Management to assist clients in identifying, assessing, and mitigating flood risks for their projects and communities. Our expertise focuses on ensuring resilient and safe developments that comply with regulations while minimizing potential damage to properties and infrastructure. We integrate advanced analytical tools and best practices to provide solutions that balance safety, environmental sustainability, and cost-effectiveness. At **3E Design Services**, our flood hazard and risk management solutions are tailored to meet the unique needs of each project, helping clients achieve compliance, protect assets, and build resilient communities.
+At **3E Design Services**, we provide specialized support in Flood Hazard and Risk Management to assist clients in identifying, assessing, and mitigating flood risks for their projects and communities. Our expertise focuses on ensuring resilient and safe developments that comply with regulations while minimizing potential damage to properties and infrastructure. We integrate advanced analytical tools and best practices to provide solutions that balance safety, environmental sustainability, and cost-effectiveness. 
 
 ## Design Support Service:
 
 At **3E Design Services**, we provide support in the following areas, but not limited to:
 
-- Flood Risk Assessments: Evaluating site-specific vulnerabilities to flooding under various scenarios, including the 100-year storm and Regional Storm events.
-- Hydraulic Modeling: Simulating water flow and flood behavior in rivers, channels, and urban drainage systems to identify high-risk areas.
-- Floodplain Mapping: Producing accurate maps to guide land-use planning, ensuring developments are located outside of high-risk flood zones where possible.
-- Mitigation Strategies: Designing flood control measures such as detention ponds, culverts, and levees to reduce flood impacts and protect critical assets.
-- Emergency Planning: Supporting the development of flood response plans to enhance community preparedness and resilience.
-- Storm Event Evaluation: Assessing impacts of critical storm events, such as the 100-year storm and Regional Storm, to ensure infrastructure resilience.
-- Pre-Development Flood Modeling (HEC-RAS) for storm events (2, 5, 10, 25, 50, 100 years, including the Regional Event).
-- Post-Development Flood Modeling (HEC-RAS) for storm events (2, 5, 10, 25, 50, 100 years, including the Regional Event).
-- Flood Mapping for storm events (2, 5, 10, 25, 50, 100 years, including the Regional Event).
-- Creek Cut-and-Fill evaluation.
-- Hydraulic Design for Creek Water Crossings (Culvert/Bridge).
-- Establishing Development Limits based on flood hazaed assessments.
-- Hydrytechnical Report
+- Hydrological & Hydaulic Analysis : Comprehensive modeling for 2, 5, 10, 25, 50, 100-year events, including the Regional event.
+- Floodplain Mapping :  Detailed mapping for 2, 5, 10, 25, 50, 100-year events, including the Regional event.
+- Creek Cut-and-Fill evaluation : Assessments to balance and manage earthworks within floodplains.
+- Water Crossings Design : Culvert and bridge hydraulic designs to manage water flow effectively and ensure infrastructure resilience.
+- Flood Hazard Assessment : Identifying and evaluating potential flood risks.
+- Establishing Development Limits
+- Hydro-technical report :  Comprehensive documentation to support project approvals and regulatory compliance.
+
+
+## Partner With Us
+
+Let **3E Design Services** for cutting-edge and reliable solutions to address flood risks and safeguard your developments.
 
 -------------------------------------------------------------------
 **Contact Us:** \

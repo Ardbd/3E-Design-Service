@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/3E-design-logo.png',
       navbar: {
-        title: '3E Design',
+        title: '3E Design Service',
         logo: {
           alt: '3E Design Logo',
           src: 'img/3E-design-logo.png',
@@ -82,12 +82,11 @@ const config = {
           label: 'Hydrology & Hydraulic',
           },
           
-         {
-          type: 'docSidebar',
-          sidebarId: 'land_developmentSidebar',
-          position: 'left',
-          label: 'Lot Grading & Draingae & Servicing',
-          },
+//         {
+//          type: 'docSidebar',
+//          sidebarId: 'land_developmentSidebar',
+//          label: 'Grading Draingae & Servicing',
+//          },
 
 
           {
@@ -112,12 +111,12 @@ const config = {
 //           label: 'Site Servicing',
 //          },
 
-          {
-          type: 'docSidebar',
-          sidebarId: 'escSidebar',
-          position: 'left',
-          label: 'Erosion & Sediment Control',
-          },
+//          {
+//          type: 'docSidebar',
+//         sidebarId: 'escSidebar',
+//          position: 'left',
+//          label: 'Erosion & Sediment Control',
+//          },
         
          {
           type: 'docSidebar',
@@ -127,39 +126,45 @@ const config = {
           },
 
 
-          {
-          type: 'docSidebar',
-          sidebarId: 'fnal_servicingSidebar',
-          position: 'left',
-          label: 'Functional Servicing',
-          },
+//          {
+//          type: 'docSidebar',
+//          sidebarId: 'fnal_servicingSidebar',
+//          position: 'left',
+//          label: 'Functional Servicing',
+ //         },
           
 
         {
           type: 'docSidebar',
           sidebarId: 'rd_drainageSidebar',
           position: 'left',
-          label: 'Road Drainage ',
+          label: 'Roadway Drainage ',
           },
 
 
-         {
-          type: 'docSidebar',
-          sidebarId: 'permitSidebar',
-          position: 'left',
-          label: 'Permitting',
-          },
+        // {
+        //  type: 'docSidebar',
+        //  sidebarId: 'permitSidebar',
+        //  position: 'left',
+        //  label: 'Permitting',
+        //  },
 
 
-
-        {
-         type: 'docSidebar',
-         sidebarId: 'shop_drawingSidebar',
-         position: 'left',
-         label: 'Shop Drawing ',
-        },
+//        {
+//         type: 'docSidebar',
+//         sidebarId: 'shop_drawingSidebar',
+//         position: 'left',
+//         label: 'Shop Drawing ',
+//        },
           
           
+//        {
+ //         type: 'docSidebar',
+//          sidebarId: 'web_linkSidebar',
+//          label: 'Reference Link ',
+//          },
+
+
           
         // {
         //   type: 'docSidebar',
